@@ -22,13 +22,33 @@ form {
 	margin:0;
 	padding:0;
 }
+
+
 a {
 	color:#0088B5;
 	font-weight:bold;
 }
+
+
+a:active {
+	color:blue;
+	background-color: ;
+	font-size: 110%;
+}
+
+
 a:hover {
 	color:#0078A0;
 }
+
+
+
+form {
+	float: right; clear: both; text-align:right;
+}
+
+
+
 #container {
 	width:930px;
 	padding:15px;

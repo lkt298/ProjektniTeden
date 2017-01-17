@@ -6,26 +6,14 @@
 <link rel="stylesheet" type="text/css" href="default.css"/>
 </head>
 <body>
+<?php
+    include_once 'header.php';
+?>
 <!-- START PAGE SOURCE -->
 <div id="container">
-  <div id="header"> <a href="#"><img src="images/logo.gif" alt="" class="logo"/></a>
-    <ul id="toplinks">
 
-    </ul>
-  </div>
-  <div id="nav">
-    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="hosting.html">Hosting</a></li>
-      <li><a href="#">Contact Us</a></li>
-    </ul>
-    <ul class="right">
-      <li><a href="#"><strong>Order Now</strong></a></li>
-      <li><a href="#">View Basket</a></li>
-    </ul>
-  </div>
   <div id="content">
-    <h1>Web Hosting</h1>
+    <h1>Package Selection:</h1>
     <ul id="promobox">
       <li>
         <h3>Starter</h3>
