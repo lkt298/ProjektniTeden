@@ -20,7 +20,13 @@
         <input class="form-control" type="password" name="pass" onkeypress="skrij()" /><span id="error"></span>
    </div>
     <div class="input-group">
+
+        <input class="btn btn-primary" type="submit" name="submit" value="Registration" />
+
+        <a href="registration.php">
         <input class="btn btn-primary" type="submit" name="submit" value="Login" />
+        </a>
+
     </div>
 </form>
   <div id="header"> <a href="#"><img src="images/logo.gif" alt="" class="logo"/></a>
