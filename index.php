@@ -15,61 +15,58 @@
 
   <ul id="promobox">
     <li>
-      <h3>Web Hosting</h3>
-      <div class="pricebox">
-        <p>From Only</p>
-        <p class="lrg">&pound;6.99</p>
-      </div>
-      <ul>
-        <li>2,000 MB Diskspace</li>
-        <li>20 GB Bandwidth</li>
-        <li>1,000 Mail Boxes</li>
-        <li>10 MySQL Databases</li>
-        <li>Website Builder Plus</li>
-        <li>Free &amp; Fast Support</li>
-        <li>Powerful Control Panel</li>
-        <li>30-Day Money Back Guarantee</li>
-      </ul>
-      <p><a href="#">Order Now</a></p>
-      <p><a href="#">More Info</a></p>
-    </li>
-    <li class="two">
-      <h3>Domains</h3>
-      <div class="pricebox">
-        <p>From Only</p>
-        <p class="lrg">&pound;5.99</p>
-      </div>
-      <ul>
-        <li>Powerful Web Forwarding</li>
-        <li>Unlimited email Forwarding</li>
-        <li>Catch-All Forwarding</li>
-        <li>Domain "For Sale" Page</li>
-        <li>Easy-To-Use Homepage Creator</li>
-        <li>Change Nominet Tag</li>
-        <li>Change Name Servers</li>
-        <li>Manage Everything Online</li>
-      </ul>
-      <p><a href="#">Order Now</a></p>
-      <p><a href="#">More Info</a></p>
-    </li>
-    <li class="three">
-      <h3>Add-Ons</h3>
+      <h3>Starter</h3>
       <div class="pricebox">
         <p>From Only</p>
         <p class="lrg">&pound;4.99</p>
       </div>
       <ul>
-        <li>Website Builder Plus</li>
-        <li>Search Engine Submission Extreme</li>
-        <li>Domain Mappings</li>
-        <li>Virus Scanning</li>
-        <li>Personalised Secure Server</li>
-        <li>Email SMS Notifications</li>
-        <li> Web Design</li>
-        <li>Custom Programming</li>
+        <li>2,000 MB Diskspace</li>
+        <li>5 GB Bandwidth</li>
+        <li>100 Mail Boxes</li>
+        <li>2 MySQL Databases</li>
+        <li>Website Builder</li>
+        <li>Free &amp;  Support</li>
+        <li>Control Panel</li>
+        <li>30-Day Money Back Guarantee</li>
       </ul>
-      <p><a href="#">Order Now</a></p>
-      <p><a href="#">More Info</a></p>
+      <p><a href="package.php">Order Now</a></p>
+    </li>
+    <li class="two">
+      <h3>Advanced</h3>
+      <div class="pricebox">
+        <p>From Only</p>
+        <p class="lrg">&pound;9.99</p>
+      </div>
+      <ul>
+        <li>10,000 MB Diskspace</li>
+        <li>10 GB Bandwidth</li>
+        <li>1,000 Mail Boxes</li>
+        <li>5 MySQL Databases</li>
+        <li>Website Builder +</li>
+        <li>Free &amp;  Support</li>
+        <li>Control Panel</li>
+        <li>30-Day Money Back Guarantee</li>
+      </ul>
+      <p><a href="package2.php">Order Now</a></p>
+    </li>
+    <li class="three">
+      <h3>Proffesional</h3>
+      <div class="pricebox">
+        <p>From Only</p>
+        <p class="lrg">&pound;14.99</p>
+      </div>
+      <ul>
+        <li>100,000 MB Diskspace</li>
+        <li>20 GB Bandwidth</li>
+        <li>10,000 Mail Boxes</li>
+        <li>10 MySQL Databases</li>
+        <li>Website Builder Pro</li>
+        <li>Free &amp; Fast Support</li>
+        <li>Advanced Control Panel</li>
+        <li>90-Day Money Back Guarantee</li>
+      </ul>
+      <p><a href="package3.php">Order Now</a></p>
     </li>
   </ul>
   <div id="newsbox"> <a href="#"><img src="images/icon_rss.png" alt="" class="right"/></a>
