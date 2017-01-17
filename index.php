@@ -1,49 +1,18 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Blue Hosting</title>
+<title> Postavi.SI </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="default.css"/>
 </head>
 <body>
-<!-- START PAGE SOURCE -->
+<?php
+    include_once 'header.php';
+?>
 <div id="container">
-  <div id="header"> <a href="#"><img src="images/logo.gif" alt="" class="logo"/></a>
-    <ul id="toplinks">
-    </ul>
-  </div>
-  <div id="nav">
-    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="hosting.html">Hosting</a></li>
-      <li><a href="#">Contact Us</a></li>
-    </ul>
-    <ul class="right">
-      <li><a href="#"><strong>Order Now</strong></a></li>
-      <li><a href="#">View Basket</a></li>
-    </ul>
-  </div>
-  <div id="topbox">
-    <div id="tbleft">
-      <h4>Customer Login</h4>
-      <form method="post" action="#">
-        <div id="boxleft">
-          <p>
-            <label for="username">Username:</label>
-            <input name="username" type="text" value="" id="username" />
-          </p>
-          <p>
-            <label for="password">Password:</label>
-            <input type="password" name="password" value="" id="password" />
-          </p>
-        </div>
-        <div id="boxright">
-          <input name="submit" type="submit" class="btn" value="submit" style="position: relative;"/>
-          <p class="link"><a href="#">Forgotten your Password?</a></p>
-        </div>
-      </form>
-    </div>
-  </div>
+
+
+
   <ul id="promobox">
     <li>
       <h3>Web Hosting</h3>
