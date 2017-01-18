@@ -79,18 +79,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	   	   <div class="col-xs-9 menu">
 					<a class="toggleMenu" href="#"><img src="images/nav_icon.png" alt="" /> </a>
 					<ul class="nav" id="nav">
-					  <li class="current"><a href="index.php">Home</a></li>
-					  <li><a href="about.php">Why Konnect</a></li>
-					  <li><a href="services.php">Services</a></li>								
+					  <li class="current"><a href="index.html">Home</a></li>
+					  <li><a href="about.html">Why Konnect</a></li>
+					  <li><a href="services.html">Services</a></li>
+					  <li><a href="404.html">Feedback</a></li>
+					  <li><a href="blog.html">Blog</a></li>
+					  <li><a href="support.html">Support</a></li>								
 					</ul>
 					<script type="text/javascript" src="js/responsive-nav.js"></script>
 		  </div>
 		  <div class="col-xs-3 header_but">
-		  			  <menu class="cl-effect-8" id="cl-effect-8">
-				 <a href="#">Login</a>
-			  </menu><br>
 			  <menu class="cl-effect-8" id="cl-effect-8">
-				 <a href="#">Registration</a>
+				 <a href="#">Client Area</a>
 			  </menu>	
 		  </div>
 	      <div class="clearfix"></div>		
