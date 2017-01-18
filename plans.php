@@ -81,7 +81,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="nav" id="nav">
 					  <li class="current"><a href="index.php">Domov</a></li>
 					  <li><a href="about.php">Zakaj Postavi.si</a></li>
-					  <li><a href="services.php">Ponujeno</a></li>								
+					  <li><a href="services.php">Ponujamo</a></li>								
 					</ul>
 					<script type="text/javascript" src="js/responsive-nav.js"></script>
 		  </div>
@@ -110,12 +110,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								    <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation</p>
 								</div>
 								<ul>
-									<li><a href="#">20GB Disk Space</a></li>
-									<li><a href="#">20GB Monthly Bandwidth</a></li>
-									<li><a href="#">Unlimited Users</a></li>
-									<li><a href="#">100 Domains</a></li>
-									<li><a href="#">430 Email Accounts</a></li>
-									<li><a href="#">Automatic Cloud Backups</a></li>
+									<li><a href="#">20GB Prostora na disku</a></li>
+									<li><a href="#">20GB Mesešnega prenosa</a></li>
+									<li><a href="#">Neomejeno uporabnikov</a></li>
+									<li><a href="#">100 Domen</a></li>
+									<li><a href="#">430 Email Računov</a></li>
+									<li><a href="#">Samodejno shranjevanje v oblak</a></li>
 							    </ul>
 							    <a class="popup-with-zoom-anim button" href="#small-dialog">Order Now</a>
 							    <div id="small-dialog" class="mfp-hide">
@@ -184,12 +184,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								    <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation</p>
 								</div>
 								<ul>
-									<li><a href="#">20GB Disk Space</a></li>
-									<li><a href="#">20GB Monthly Bandwidth</a></li>
-									<li><a href="#">Unlimited Users</a></li>
-									<li><a href="#">100 Domains</a></li>
-									<li><a href="#">430 Email Accounts</a></li>
-									<li><a href="#">Automatic Cloud Backups</a></li>
+									<li><a href="#">20GB Prostora na disku</a></li>
+									<li><a href="#">20GB Mesešnega prenosa</a></li>
+									<li><a href="#">Neomejeno uporabnikov</a></li>
+									<li><a href="#">100 Domen</a></li>
+									<li><a href="#">430 Email Računov</a></li>
+									<li><a href="#">Samodejno shranjevanje v oblak</a></li>
 							    </ul>
 							    <a class="popup-with-zoom-anim button1" href="#small-dialog">Order Now</a>
 				      </div>
@@ -202,12 +202,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								    <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation</p>
 								</div>
 								<ul>
-									<li><a href="#">20GB Disk Space</a></li>
-									<li><a href="#">20GB Monthly Bandwidth</a></li>
-									<li><a href="#">Unlimited Users</a></li>
-									<li><a href="#">100 Domains</a></li>
-									<li><a href="#">430 Email Accounts</a></li>
-									<li><a href="#">Automatic Cloud Backups</a></li>
+									<li><a href="#">20GB Prostora na disku</a></li>
+									<li><a href="#">20GB Mesešnega prenosa</a></li>
+									<li><a href="#">Neomejeno uporabnikov</a></li>
+									<li><a href="#">100 Domen</a></li>
+									<li><a href="#">430 Email Računov</a></li>
+									<li><a href="#">Samodejno shranjevanje v oblak</a></li>
 							    </ul>
 							    <a class="popup-with-zoom-anim button" href="#small-dialog">Order Now</a>
 				</div>
