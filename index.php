@@ -87,9 +87,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		  </div>
 		  <div class="col-xs-3 header_but">
 		  			  <menu class="cl-effect-8" id="cl-effect-8">
-				 <a href="#">Vpis</a>
+				 <a href="login.php">Vpis</a>
 
-				 <a href="#">Registracija</a>
+				 <a href="registration.php">Registracija</a>
 			  </menu>	
 		  </div>
 	      <div class="clearfix"></div>		
