@@ -49,24 +49,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="container">
   	         <div class="col-sm-6 header-top-left">
 			  <div class="box">
-			  	   	<select tabindex="4" class="dropdown drop">
-					   <option value="" class="label" value="">Dollar</option>
-				       <option value="1">Dollar</option>
-				       <option value="2">Euro</option>
-					</select>
+
    			   </div>
    			   <div class="box1">
-   				       <select tabindex="4" class="dropdown">
-							<option value="" class="label" value="">English</option>
-							<option value="1">English</option>
-							<option value="2">French</option>
-							<option value="3">German</option>
-					  </select>
+
    			   </div>
    			   <div class="clearfix"></div>
    			 </div>
 			 <div class="col-sm-6 header-top-right">
-			 	<div class="col-xs-7 phone"><p>24/7 Support 010-25418796</p></div>
+			 	<div class="col-xs-7 phone"><p></p></div>
 			 	<div class="col-xs-5 check_box">
 				    <a href="#"> <ul class="check">
 					   	<i class="cart"> </i>
@@ -88,18 +79,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	   	   <div class="col-xs-9 menu">
 					<a class="toggleMenu" href="#"><img src="images/nav_icon.png" alt="" /> </a>
 					<ul class="nav" id="nav">
-					  <li><a href="index.html">Home</a></li>
-					  <li><a href="about.html">Why Konnect</a></li>
-					  <li><a href="services.html">Services</a></li>
-					  <li class="current"><a href="404.html">Feedback</a></li>
-					  <li><a href="blog.html">Blog</a></li>
-					  <li><a href="support.html">Support</a></li>								
+					  <li class="current"><a href="index.php">Domov</a></li>
+					  <li><a href="about.php">Zakaj Postavi.si</a></li>
+					  <li><a href="services.php">Ponujeno</a></li>								
 					</ul>
 					<script type="text/javascript" src="js/responsive-nav.js"></script>
 		  </div>
 		  <div class="col-xs-3 header_but">
+		  			  <menu class="cl-effect-8" id="cl-effect-8">
+				 <a href="#">Vpis</a>
+			  </menu><br>
 			  <menu class="cl-effect-8" id="cl-effect-8">
-				 <a href="#cl-effect-8">Client Area</a>
+				 <a href="#">Registracija</a>
 			  </menu>	
 		  </div>
 	      <div class="clearfix"></div>		
@@ -107,7 +98,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
    	  <div class="clearfix"></div>
    	  </div>
    </div>
-</div>
 <div class="about">
 	<div class="container">
 		<h1 class="m_2">3 Columns</h1>
