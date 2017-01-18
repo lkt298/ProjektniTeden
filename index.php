@@ -81,7 +81,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<ul class="nav" id="nav">
 					  <li class="current"><a href="index.php">Domov</a></li>
 					  <li><a href="about.php">Zakaj Postavi.si</a></li>
-					  <li><a href="services.php">Ponujeno</a></li>								
+					  <li><a href="services.php">Ponujamo</a></li>								
 					</ul>
 					<script type="text/javascript" src="js/responsive-nav.js"></script>
 		  </div>
@@ -98,7 +98,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
    	  </div>
    </div>
    <div class="header_bot_grid">
-      <h1>Postavi si strežnik na POSTAVI.SI</h1>
+      <h1>Postavi.si strežnik</h1>
       <div class="header-btns">
 		<a class="plans btn btn-primary1 btn-normal btn-inline" href="plans.php">Ogled Paketov</a>
 	    
@@ -260,87 +260,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
        </div>
        <div class="plans_desc">
         <h3>Want some Customize Plan for your need ?</h3>
-        <a class="contact_btn" href="#">KONTAKT</a>
+        <a class="contact_btn" href="#">Kontakt</a>
        </div>
 	</div>
 </div>
 
-<div class="services">
-	<div class="container">
-	   <div class="span_1">
-		  <h3>Services Offered</h3>
-		  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-	   </div>
-	   <div class="span_2">
-	   	<div class="span_2-top">
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon1"> </i>
-		   			<li class="host_desc">
-		   				<h4>Web Hosting</h4>
-		   				<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-		   				<a class="button2" href="#">Learn More</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon2"> </i>
-		   			<li class="host_desc">
-		   				<h4>Domain Names</h4>
-		   				<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-		   				<a class="button2" href="#">Learn More</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon3"> </i>
-		   			<li class="host_desc">
-		   				<h4>File Exchange FTP</h4>
-		   				<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-		   				<a class="button2" href="#">Learn More</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="clearfix"> </div>
-		 </div>
-		 <div class="span_2-bottom">
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon4"> </i>
-		   			<li class="host_desc">
-		   				<h4>Dedicated Server</h4>
-		   				<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-		   				<a class="button2" href="#">Learn More</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon5"> </i>
-		   			<li class="host_desc">
-		   				<h4>Vps Server</h4>
-		   				<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-		   				<a class="button2" href="#">Learn More</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon6"> </i>
-		   			<li class="host_desc">
-		   				<h4>SSL Certificates</h4>
-		   				<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-		   				<a class="button2" href="#">Learn More</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="clearfix"> </div>
-		 </div>
-	   </div>
-	</div>
-</div>  
+ 
 <div class="about_grid">
 	<div class="container">
 		<div class="span_1 span_3">
