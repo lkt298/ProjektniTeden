@@ -70,7 +70,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <li class="cart_desc">Košarica</li>
                         <div class="clearfix"> </div>
                     </ul></a>
-           
+                </div>
+                <div class="clearfix"></div>  
+             </div>
+            <div class="clearfix"></div>
+       </div>
+    </div>
     <div class="container">
       <div class="header_bottom"> 
        <div class="col-xs-3 logo">
@@ -104,7 +109,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
           <input type="password" name="password" class="textbox" required="required">
           <br>
           <br>
-          <input type="submit" value="Pošlji">
+          <input type="submit" name="potrdi" value="Prijavi se">
         </form>
       </div>
     </div>
