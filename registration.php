@@ -51,13 +51,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="header">
     <div class="header_top">
         <div class="container">
-             <div class="col-sm-6 header-top-left">
-              <div class="box">
-               </div>
-               <div class="box1">
-               </div>
-               <div class="clearfix"></div>
-             </div>
              <div class="col-sm-6 header-top-right">
                 <div class="col-xs-7 phone"><p></p></div>
                 <div class="col-xs-5 check_box">
@@ -88,9 +81,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <script type="text/javascript" src="js/responsive-nav.js"></script>
           </div>
           
-          <div class="clearfix"></div>        
+              
       </div>
-      <div class="clearfix"></div>
+     
       </div>
 
       <div class="contact_index">
@@ -99,16 +92,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
       <h3>Vnesi svoje podatke</h3>
       <div class="contact-form">
         <form action="register.php" method="POST">
-        <h3>Ime</h3>
-          <input type="text" placeholder="test" name="name" class="textbox"  required="required">
-          <h3>Priimek</h3>
-          <input type="text" name="surname" class="textbox" required="required">
-          <h3>E-naslov</h3>
-          <input type="text" name="email" class="textbox" required="required">
-          <h3>Uporabniško ime</h3>
-          <input type="text" name="username" class="textbox" required="required">
-          <h3>Geslo</h3>
-          <input type="password" name="password" class="textbox" required="required">
+          <input type="text" placeholder="Ime" name="name" class="textbox"  required="required">
+          <input type="text" placeholder="Priimek" name="surname" class="textbox" required="required">
+          <input type="text" placeholder="E-Naslov" name="email" class="textbox" required="required">
+          <input type="text" placeholder="Uporabniško Ime" name="username" class="textbox" required="required">
+          <input type="password" placeholder="Geslo" name="password" class="textbox" required="required">
           <br>
           <br>
           <input type="submit" value="Pošlji">
