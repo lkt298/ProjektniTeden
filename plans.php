@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Konnect A Hosting Category Flat Bootstarp Resposive Website Template | Domain :: Plans</title>
+<title>Postavi Si | Ponudba</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Konnect Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -61,7 +61,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 	<div class="col-xs-5 check_box">
 				    <a href="#"> <ul class="check">
 					   	<i class="cart"> </i>
-					   	<li class="cart_desc">Checkout Now</li>
+					   	<li class="cart_desc">Košarica</li>
 					   	<div class="clearfix"> </div>
 				    </ul></a>
 				</div>
@@ -73,7 +73,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="container">
       <div class="header_bottom"> 
        <div class="col-xs-3 logo">
-   	   	 <a href="index.html"><img src="images/logo.png" alt=""/></a>
+   	   	 <a href="index.php"><img src="images/logo.png" alt=""/></a>
    	   </div>
    	   <div class="col-xs-9 header_nav">
 	   	   <div class="col-xs-9 menu">
@@ -100,24 +100,23 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
    </div>
 <div class="about">
 	<div class="container">
-		<h1 class="m_2">3 Columns</h1>
+		<h1 class="m_2"></h1>
 		<div class="plans-view">
        	           <div class="col-md-4">
 						  <div class="pricing-table-grid">
 								<div class="plans_head">
 									<h3>Personal</h3>
-								    <h4 class="m_4"><small class="m_2">$</small>10<small small class="m_3">/mo</small></h4>
-								    <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation</p>
+								    <h4 class="m_4"><small class="m_2">€</small>10<small small class="m_3">/me</small></h4>
 								</div>
 								<ul>
-									<li><a href="#">20GB Disk Space</a></li>
-									<li><a href="#">20GB Monthly Bandwidth</a></li>
-									<li><a href="#">Unlimited Users</a></li>
-									<li><a href="#">100 Domains</a></li>
-									<li><a href="#">430 Email Accounts</a></li>
-									<li><a href="#">Automatic Cloud Backups</a></li>
+							<li><a>25GB Prostora na disku</a></li>
+							<li><a>10GB Mesečnega prenosa</a></li>
+							<li><a>Neomejeno uporabnikov</a></li>
+							<li><a>50 Domen</a></li>
+							<li><a>200 Email Računov</a></li>
+							<li><a>Samodejno shranjevanje v oblak</a></li>
 							    </ul>
-							    <a class="popup-with-zoom-anim button" href="#small-dialog">Order Now</a>
+							    <a class="popup-with-zoom-anim button" href="#small-dialog">Naroči zdaj</a>
 							    <div id="small-dialog" class="mfp-hide">
 									<div class="pop_up">
 									 	<div class="payment-online-form-left">
@@ -180,36 +179,34 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="pricing-table-grid">
 								<div class="plans_head1">
 									<h3>Professional</h3>
-								    <h4 class="m_4"><small class="m_2">$</small>24<small small class="m_3">/mo</small></h4>
-								    <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation</p>
+								    <h4 class="m_4"><small class="m_2">€</small>24<small small class="m_3">/me</small></h4>
 								</div>
 								<ul>
-									<li><a href="#">20GB Disk Space</a></li>
-									<li><a href="#">20GB Monthly Bandwidth</a></li>
-									<li><a href="#">Unlimited Users</a></li>
-									<li><a href="#">100 Domains</a></li>
-									<li><a href="#">430 Email Accounts</a></li>
-									<li><a href="#">Automatic Cloud Backups</a></li>
+							<li><a href="#">50GB Prostora na disku</a></li>
+							<li><a href="#">20GB Mesečnega prenosa</a></li>
+							<li><a href="#">Neomejeno uporabnikov</a></li>
+							<li><a href="#">100 Domen</a></li>
+							<li><a href="#">500 Email Računov</a></li>
+							<li><a href="#">Samodejno shranjevanje v oblak</a></li>
 							    </ul>
-							    <a class="popup-with-zoom-anim button1" href="#small-dialog">Order Now</a>
+							    <a class="popup-with-zoom-anim button1" href="#small-dialog">Naroči zdaj</a>
 				      </div>
 		     </div>	
 	         <div class="col-md-4">
 				<div class="pricing-table-grid">
 								<div class="plans_head">
 									<h3>Business</h3>
-								    <h4 class="m_4"><small class="m_2">$</small>99<small small class="m_3">/mo</small></h4>
-								    <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation</p>
+								    <h4 class="m_4"><small class="m_2">e</small>60<small small class="m_3">/me</small></h4>
 								</div>
 								<ul>
-									<li><a href="#">20GB Disk Space</a></li>
-									<li><a href="#">20GB Monthly Bandwidth</a></li>
-									<li><a href="#">Unlimited Users</a></li>
-									<li><a href="#">100 Domains</a></li>
-									<li><a href="#">430 Email Accounts</a></li>
-									<li><a href="#">Automatic Cloud Backups</a></li>
+							<li><a href="#">100GB Prostora na disku</a></li>
+							<li><a href="#">30GB Mesečnega prenosa</a></li>
+							<li><a href="#">Neomejeno uporabnikov</a></li>
+							<li><a href="#">Neomejen Domen</a></li>
+							<li><a href="#">1000 Email Računov</a></li>
+							<li><a href="#">Samodejno shranjevanje v oblak</a></li>
 							    </ul>
-							    <a class="popup-with-zoom-anim button" href="#small-dialog">Order Now</a>
+							    <a class="popup-with-zoom-anim button" href="#small-dialog">Naroči zdaj</a>
 				</div>
 		    </div>
 	       
@@ -220,7 +217,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="contact_index">
 	<div class="container">
 		<div class="col-md-8 contact_index-left">
-			<h3>Send Us A Message</h3>
+			<h3>Pošlji nam sporočilo</h3>
 			<div class="contact-form">
 				<form>
 					<input type="text" class="textbox" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}">
@@ -230,12 +227,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 		</div>
 		<div class="col-md-4 contact_index-right">
-			<h3>Quick Links</h3>
+			<h3>Hitre povezave</h3>
 			<ul class="footer_social">
-			  <li><a href="#"> <i class="email"> </i> </a></li>
-			  <li><a href="#"> <i class="chat"> </i> </a></li>
-			  <li><a href="#"> <i class="report"> </i></a></li>
-			  <li><a href="#"> <i class="phone"> </i></a></li>
+			  <li><a href="about.php"> <i class="email"> </i> </a></li>
+			  <li><a href="about.php"> <i class="chat"> </i> </a></li>
 			</ul>
 		</div>
 	</div>

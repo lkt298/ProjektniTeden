@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Konnect A Hosting Category Flat Bootstarp Resposive Website Template | About :: w3layouts</title>
+<title>Postavi Si | O nas</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Konnect Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -55,7 +55,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="container">
       <div class="header_bottom"> 
        <div class="col-xs-3 logo">
-   	   	 <a href="index.html"><img src="images/logo.png" alt=""/></a>
+   	   	 <a href="index.php"><img src="images/logo.png" alt=""/></a>
    	   </div>
    	   <div class="col-xs-9 header_nav">
 	   	   <div class="col-xs-9 menu">
@@ -84,16 +84,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="about">
 	<div class="container">
 		<div class="col-md-8 grid_2">
-			<h1>Providing Unlimited hosting</h1>
 			<div class="box-4 box-5">
                 <div class="put-left">
                     <img src="images/pic1.jpg" class="img-responsive" alt=""/>
                 </div>
                 <div class="caption">
-                   <h3><a href="#">Lorem Ipsum is therefore always</a></h3>
+					<p> </p>
                     <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo
+                        </br>e-mail: postavi123@gmail.com
                     </p>
+					<p><a href="https://www.facebook.com/Postavisi-1732501673726950/?fref=ts">Všečkajte nas na Facebooku</a></p>
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -102,77 +102,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <img src="images/pic2.jpg" class="img-responsive" alt=""/>
                 </div>
                 <div class="caption">
-                    <h3><a href="#">Lorem Ipsum is therefore always</a></h3>
                     <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo
+                        Podjetje ki za ugodno ceno ponudi veliko. Omogočamo gostovanje strežnikov.
                     </p>
                 </div>
                 <div class="clearfix"></div>
             </div>
 		</div>
-		<div class="col-md-4 grid_3">
-			<h2>Our Guarantee</h2>
-			<ul class="list_1">
-                <li>
-                    <div class="index-box">
-                        <div class="data-index">1.</div>
-                        <div class="caption">
-                            <h3><a href="#">Lorem Ipsum</a></h3>
-		                    <p>
-		                        Sed ut perspiciatis unde omnis iste natus error 
-		                    </p>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <div class="index-box">
-                        <div class="data-index">2.</div>
-                        <div class="caption">
-                            <h3><a href="#">Lorem Ipsum</a></h3>
-		                    <p>
-		                        Sed ut perspiciatis unde omnis iste natus error 
-		                    </p>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <div class="index-box">
-                        <div class="data-index">3.</div>
-                        <div class="caption">
-                            <h3><a href="#">Lorem Ipsum</a></h3>
-		                    <p>
-		                        Sed ut perspiciatis unde omnis iste natus error 
-		                    </p>
-                        </div>
-                    </div>
-                </li>
-                <div class="clearfix"></div>
-            </ul>
-		</div>
-	</div>
-</div>
-<div class="content_bottom">
-	<div class="container">
-		<h2>Our Team</h2>
-		<div class="col-md-3 grid_4">
-			 <img src="images/pic3.jpg" class="img-responsive" alt=""/>
-			 <h3><a href="#">omnis iste</a></h3>
-			 <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain</p>
-		</div>
-		<div class="col-md-3 grid_4">
-			 <img src="images/pic4.jpg" class="img-responsive" alt=""/>
-			 <h3><a href="#">praising</a></h3>
-			 <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain</p>
-		</div>
-		<div class="col-md-3 grid_4">
-			 <img src="images/pic5.jpg" class="img-responsive" alt=""/>
-			 <h3><a href="#">denouncing</a></h3>
-			 <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain</p>
-		</div>
-		<div class="col-md-3 grid_4">
-			 <img src="images/pic6.jpg" class="img-responsive" alt=""/>
-			 <h3><a href="#">omnis iste</a></h3>
-			 <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain</p>
 		</div>
 	</div>
 </div>

@@ -12,7 +12,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Postavi.si</title>
+	<title>Postavi Si</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="keywords" content="Konnect Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -121,49 +121,40 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="container">
 			<div class="col-md-3 grid_1">
 				<i class="time"> </i>
-				<h3>99.99% Uptime</h3>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
+				<h3>99.99% Delovanje</h3>
 			</div>
 			<div class="col-md-3 grid_1">
 				<i class="platform"> </i>
-				<h3>Multi-Platform</h3>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
+				<h3>Več-platformno</h3>
 			</div>
 			<div class="col-md-3 grid_1">
 				<i class="fast"> </i>
-				<h3>Amazingly Fast</h3>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
+				<h3>Izjemno hitro</h3>
 			</div>
 			<div class="col-md-3 grid_1">
 				<i class="data"> </i>
-				<h3>Data Recovery</h3>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
+				<h3>Obnova podatkov</h3>
 			</div>
 		</div>
 	</div>
 	<div class="content_bottom">
 		<div class="container">
-			<div class="box3">
-				<h2>Simple Pricing . Always .</h2>
-				<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-			</div>
 			<div class="plans">
 				<div class="col-md-3">
 					<div class="pricing-table-grid">
 						<div class="plans_head">
 							<h3>Personal</h3>
-							<h4 class="m_4"><small class="m_2">$</small>10<small small class="m_3">/mo</small></h4>
-							<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation</p>
+							<h4 class="m_4"><small class="m_2">€</small>10<small small class="m_3">/me</small></h4>
 						</div>
 						<ul>
-							<li><a href="#">20GB Disk Space</a></li>
-							<li><a href="#">20GB Monthly Bandwidth</a></li>
-							<li><a href="#">Unlimited Users</a></li>
-							<li><a href="#">100 Domains</a></li>
-							<li><a href="#">430 Email Accounts</a></li>
-							<li><a href="#">Automatic Cloud Backups</a></li>
+							<li><a>25GB Prostora na disku</a></li>
+							<li><a>10GB Mesečnega prenosa</a></li>
+							<li><a>Neomejeno uporabnikov</a></li>
+							<li><a>50 Domen</a></li>
+							<li><a>200 Email Računov</a></li>
+							<li><a>Samodejno shranjevanje v oblak</a></li>
 						</ul>
-						<a class="popup-with-zoom-anim button" href="#small-dialog">Order Now</a>
+						<a class="popup-with-zoom-anim button" href="#small-dialog">Naroči zdaj</a>
 						<div id="small-dialog" class="mfp-hide">
 							<div class="pop_up">
 								<div class="payment-online-form-left">
@@ -226,166 +217,55 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="pricing-table-grid">
 						<div class="plans_head1">
 							<h3>Professional</h3>
-							<h4 class="m_4"><small class="m_2">$</small>24<small small class="m_3">/mo</small></h4>
-							<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation</p>
+							<h4 class="m_4"><small class="m_2">€</small>24<small small class="m_3">/me</small></h4>
 						</div>
 						<ul>
-							<li><a href="#">20GB Disk Space</a></li>
-							<li><a href="#">20GB Monthly Bandwidth</a></li>
-							<li><a href="#">Unlimited Users</a></li>
-							<li><a href="#">100 Domains</a></li>
-							<li><a href="#">430 Email Accounts</a></li>
-							<li><a href="#">Automatic Cloud Backups</a></li>
+							<li><a href="#">50GB Prostora na disku</a></li>
+							<li><a href="#">20GB Mesečnega prenosa</a></li>
+							<li><a href="#">Neomejeno uporabnikov</a></li>
+							<li><a href="#">100 Domen</a></li>
+							<li><a href="#">500 Email Računov</a></li>
+							<li><a href="#">Samodejno shranjevanje v oblak</a></li>
 						</ul>
-						<a class="popup-with-zoom-anim button1" href="#small-dialog">Order Now</a>
+						<a class="popup-with-zoom-anim button1" href="#small-dialog">Naroči zdaj</a>
 					</div>
 				</div>	
 				<div class="col-md-3">
 					<div class="pricing-table-grid">
 						<div class="plans_head">
 							<h3>Business</h3>
-							<h4 class="m_4"><small class="m_2">$</small>99<small small class="m_3">/mo</small></h4>
-							<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation</p>
+							<h4 class="m_4"><small class="m_2">€</small>60<small small class="m_3">/me</small></h4>
 						</div>
 						<ul>
-							<li><a href="#">20GB Disk Space</a></li>
-							<li><a href="#">20GB Monthly Bandwidth</a></li>
-							<li><a href="#">Unlimited Users</a></li>
-							<li><a href="#">100 Domains</a></li>
-							<li><a href="#">430 Email Accounts</a></li>
-							<li><a href="#">Automatic Cloud Backups</a></li>
+							<li><a href="#">100GB Prostora na disku</a></li>
+							<li><a href="#">30GB Mesečnega prenosa</a></li>
+							<li><a href="#">Neomejeno uporabnikov</a></li>
+							<li><a href="#">Neomejen Domen</a></li>
+							<li><a href="#">1000 Email Računov</a></li>
+							<li><a href="#">Samodejno shranjevanje v oblak</a></li>
 						</ul>
-						<a class="popup-with-zoom-anim button" href="#small-dialog">Order Now</a>
+						<a class="popup-with-zoom-anim button" href="#small-dialog">Naroči zdaj</a>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="pricing-table-grid1">
-						<p>Looking for something simple to get started ?</p>		
+						<p>Iščete nekaj preprostega za začetek ?</p>		
 						<h5>Starter</h5>
 
-						<h4 class="m_4 m_5"><small class="m_2 sm1">$</small>0<small small class="m_3 sm2">/mo</small></h4>
-						<a class="popup-with-zoom-anim button" href="#small-dialog">Get Start Today</a>		   
+						<h4 class="m_4 m_5"><small class="m_2 sm1">€</small>0<small small class="m_3 sm2">/me</small></h4>
+						<a class="popup-with-zoom-anim button" href="#small-dialog">Začnite še danes</a>		   
 					</div>
 				</div>	
 				<div class="clearfix"> </div>								
 			</div>
 			<div class="plans_desc">
-				<h3>Want some Customize Plan for your need ?</h3>
-				<a class="contact_btn" href="#">KONTAKT</a>
+				<h3>Želite prilagoditi plan vašim potrebam ?</h3>
+				<a class="contact_btn" href="about.php">KONTAKT</a>
 			</div>
-		</div>
-	</div>
-
-	<div class="services">
-		<div class="container">
-			<div class="span_1">
-				<h3>Services Offered</h3>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-			</div>
-			<div class="span_2">
-				<div class="span_2-top">
-					<div class="col-md-4">
-						<ul class="hosting">
-							<i class="icon1"> </i>
-							<li class="host_desc">
-								<h4>Web Hosting</h4>
-								<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-								<a class="button2" href="#">Learn More</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-4">
-						<ul class="hosting">
-							<i class="icon2"> </i>
-							<li class="host_desc">
-								<h4>Domain Names</h4>
-								<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-								<a class="button2" href="#">Learn More</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-4">
-						<ul class="hosting">
-							<i class="icon3"> </i>
-							<li class="host_desc">
-								<h4>File Exchange FTP</h4>
-								<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-								<a class="button2" href="#">Learn More</a>
-							</li>
-						</ul>
-					</div>
-					<div class="clearfix"> </div>
-				</div>
-				<div class="span_2-bottom">
-					<div class="col-md-4">
-						<ul class="hosting">
-							<i class="icon4"> </i>
-							<li class="host_desc">
-								<h4>Dedicated Server</h4>
-								<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-								<a class="button2" href="#">Learn More</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-4">
-						<ul class="hosting">
-							<i class="icon5"> </i>
-							<li class="host_desc">
-								<h4>Vps Server</h4>
-								<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-								<a class="button2" href="#">Learn More</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-4">
-						<ul class="hosting">
-							<i class="icon6"> </i>
-							<li class="host_desc">
-								<h4>SSL Certificates</h4>
-								<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. </p>
-								<a class="button2" href="#">Learn More</a>
-							</li>
-						</ul>
-					</div>
-					<div class="clearfix"> </div>
-				</div>
-			</div>
-		</div>
-	</div>  
-	<div class="about_grid">
-		<div class="container">
-			<div class="span_1 span_3">
-				<h4>About Us</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-			</div>
-			<div class="span_5">
-				<div class="col-md-5 span_5-left">
-					<p class="m_1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown print.</p>
-					<p class="m_2"> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,</p>
-					<a class="button3" href="#">Learn More</a>
-				</div>
-				<div class="col-md-7">
-					<div class="span_5-right">
-						<span> </span>
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
-	<div class="testimonail">
-		<div class="container">
-			<ul class="test">
-				<li class="test_img"><img src="images/test_pic.png" class="img-responsive" alt=""/></li>
-				<li class="test_desc">
-					<p><span class="quotes"> </span>consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. - <span class="link"><a href="#">magna aliqua (CEO)</a></span></p>
-				</li>
-				<div class="clearfix"> </div>
-			</ul>
 		</div>
 	</div>
 	<div class="map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3150859.767904157!2d-96.62081048651531!3d39.536794757966845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1408111832978"> </iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2753.381445437131!2d15.111477860129485!3d46.36181952308134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476566d5a87c506f%3A0x96dc8aaac2424d48!2s%C5%A0olski+center+Velenje!5e0!3m2!1ssl!2ssi!4v1484814128023" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>	</div>
 	</div>
 	<div class="contact_index">
 		<div class="container">
@@ -402,10 +282,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="col-md-4 contact_index-right">
 				<h3>Hitre Povezave</h3>
 				<ul class="footer_social">
-					<li><a href="#"> <i class="email"> </i> </a></li>
-					<li><a href="#"> <i class="chat"> </i> </a></li>
-					<li><a href="#"> <i class="report"> </i></a></li>
-					<li><a href="#"> <i class="phone"> </i></a></li>
+					<li><a href="about.php"> <i class="email"> </i> </a></li>
+					<li><a href="about.php"> <i class="chat"> </i> </a></li>
 				</ul>
 			</div>
 		</div>
