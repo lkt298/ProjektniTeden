@@ -1,7 +1,7 @@
 <?php
 $host="localhost";
-$user="root";
-$password="";
+$user="admin";
+$password="admin";
 
 $db_name="postavi_si";
 

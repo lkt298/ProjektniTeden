@@ -15,7 +15,7 @@ include_once 'session.php';
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Vpis</title>
+<title>Konnect A Hosting Category Flat Bootstarp Resposive Website Template | Home :: w3layouts</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Konnect Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -115,3 +115,5 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     </div>
    </div>
    </div>
+
+   

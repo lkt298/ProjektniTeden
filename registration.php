@@ -1,4 +1,4 @@
-!--
+<!--
 Author: W3layouts
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
@@ -11,11 +11,7 @@ include_once 'session.php';
 <!DOCTYPE HTML>
 <html>
 <head>
-<<<<<<< HEAD
-<title>Registracija</title>
-=======
 <title>Postavi.si</title>
->>>>>>> code
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Konnect Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
