@@ -7,7 +7,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
+<<<<<<< Updated upstream
 <title>Postavi Si</title>
+=======
+<title>Domov</title>
+>>>>>>> Stashed changes
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Internetno gostovanje, internet hosting, server hosting, gostovanje strežnikov, postavi, si, poceni gostovanje, cheap server hosting, domain, domena" />
@@ -254,75 +258,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
        </div>
 	</div>
 </div>
-<div class="services">
-	<div class="container">
-	   <div class="span_1">
-		  <h3>Ponujene storitve</h3>
-	   </div>
-	   <div class="span_2">
-	   	<div class="span_2-top">
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon1"> </i>
-		   			<li class="host_desc">
-		   				<h4>Internetno gostovanje</h4>
-		   				<a class="button2" href="#">Več</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon2"> </i>
-		   			<li class="host_desc">
-		   				<h4>Imena domen</h4>
-		   				<a class="button2" href="#">Več</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon3"> </i>
-		   			<li class="host_desc">
-		   				<h4>Izmenjava podatkov FTP</h4>
-		   				<a class="button2" href="#">Več</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="clearfix"> </div>
-		 </div>
-		 <div class="span_2-bottom">
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon4"> </i>
-		   			<li class="host_desc">
-		   				<h4>Namenki strežnik</h4>
-		   				<a class="button2" href="#">Več</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon5"> </i>
-		   			<li class="host_desc">
-		   				<h4>Vps strežnik</h4>
-		   				<a class="button2" href="#">Več</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="col-md-4">
-		   		<ul class="hosting">
-		   			<i class="icon6"> </i>
-		   			<li class="host_desc">
-		   				<h4>SSL certifikati</h4>
-		   				<a class="button2" href="#">Več</a>
-		   		    </li>
-		   		</ul>
-		   	</div>
-		   	<div class="clearfix"> </div>
-		 </div>
-	   </div>
-	</div>
-</div>  
+
 <div class="about_grid">
 	<div class="container">
 		<div class="span_1 span_3">
